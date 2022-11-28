@@ -1,0 +1,62 @@
+body {
+    margin: 0;
+}
+.my-image {
+    display: block;
+    width: 100%;
+    height: 800px;
+    margin: 0;
+    padding: 0;
+    background: fixed no-repeat url("../img/02.jpg") 50%;
+    background-size: cover;
+}
+.my-image .container {
+    display: block;
+    padding-left: 300px;
+    padding-top: 300px;
+    width: 500px;
+    color: #fff;
+}
+.my-image .container .name {
+    font-size: 70px;
+    line-height: 1;
+}
+.my-image .container .analytic {
+    font-size: 25px;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.4);
+    padding-bottom: 50px;
+    padding-top: 20px;
+}
+.intro {
+    display: block;
+    margin-top: 100px;
+    width: 65%;
+    margin-left: 15%;
+    height: 100%;
+}
+.intro .intro-header {
+    float: left;
+    width: 23%;
+    text-align: right;
+}
+.intro .intro-header h2 {
+    margin-top: 0;
+}
+.intro .intro-text {
+    float: right;
+    width: 66%;
+    font-size: 18px;
+}
+.intro .intro-text .progress-box {
+    border-bottom: 2px solid lightgray;
+    font-family: Arial;
+}
+.intro .intro-text .progress-box span{
+    float: right;
+}
+footer {
+    display: block;
+    height: 260px;
+    width: 100%;
+    background: gray;
+}
