@@ -1,0 +1,24 @@
+{
+  "name": "2022-fall-lab-portfolio-safonova-arina-olegovna-dev",
+  "version": "1.0.0",
+  "description": "web-lab",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stepancar-web-programming/2022-fall-lab-portfolio-safonova-arina-olegovna.git"
+  },
+  "keywords": [
+    "lab",
+    "web"
+  ],
+  "author": "oreushka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stepancar-web-programming/2022-fall-lab-portfolio-safonova-arina-olegovna/issues"
+  },
+  "homepage": "https://github.com/stepancar-web-programming/2022-fall-lab-portfolio-safonova-arina-olegovna#readme"
+}
