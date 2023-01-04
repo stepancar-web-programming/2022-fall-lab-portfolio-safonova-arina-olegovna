@@ -1,0 +1,79 @@
+body {
+margin: 0;
+}
+.my-image {
+    display: block;
+    width: 100%;
+    height: 800px;
+    margin: 0;
+    padding: 0;
+}
+.experience {
+    margin-top: 100px;
+    width: 76%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.experience h2 {
+    float: left;
+    display: block;
+}
+
+.experience .experience-container {
+    float: right;
+}
+
+.experience .experience-container .experience-block {
+    display: inline-block;
+    width: 250px;
+}
+
+.experience .experience-container .experience-block:nth-child(2) {
+    background: aqua;
+    padding: 30px 0 30px 30px;
+}
+
+.cleanit {
+    visibility: hidden;
+    clear: both;
+    margin-bottom: 20px;
+}
+
+footer {
+    display: block;
+    height: 260px;
+    width: 100%;
+    background: #F5FFFA;
+}
+
+footer .contact-content {
+    min-height: 10px;
+    width: 76%;
+    margin-left: auto;
+    margin-top: 100px;
+    padding-top: 90px;
+}
+
+footer .contact-content h2 {
+    display: block;
+    float: left;
+}
+
+footer .contact-container {
+    float: right;
+}
+
+footer .contact-content .contact-info {
+    display: inline-block;
+    margin-right: 50px;
+}
+
+footer .contact-content .contact-info:last-child {
+    display: inline-block;
+    margin-right: 270px;
+}
+
+footer .contact-content .contact-info a {
+    text-decoration: none;
+    color: grey;
+}
